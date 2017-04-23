@@ -16,7 +16,7 @@ Adopt XQDA as metric learning method. Use CMC curve to show the performance. The
 
 ## Requirements
 
-- Python 2.7
+- Python-2.7
 - Caffe(for python) 
 - Numpy
 - Pylab
