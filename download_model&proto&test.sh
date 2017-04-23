@@ -1,0 +1,1 @@
+megadl https://mega.nz/#F!PIhWkTIA!WwZt63Lc6pvK525gLHdG5w ; megadl https://mega.nz/#F!TEZRTbbC!JElxMk7terpaxKvYhpZfDg ; megadl https://mega.nz/#!CBwDgb7Q!E-32vPCj1tz_e47aoxp7OOs0988sY4GRn_pTvJ7Ls30 ;  unzip test.zip ; rm test.zip 
